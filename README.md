@@ -23,7 +23,7 @@ API Integrations: OpenWeatherMap, NewsAPI
 
 **Starting project Voice Assistant:**
 
-Launch the application. Voice Assistant will start listening for voice commands.
+Launch the application Voice Assistant will start listening for voice commands.
 
 **Giving Commands:**
 
